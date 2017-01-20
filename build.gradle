@@ -9,7 +9,7 @@ buildscript {
 }
 
 allprojects {
-    group = 'me.dm7.barcodescanner'
+    group = 'com.githup.FilipMarusca'
     version = '1.9'
 
     repositories {
